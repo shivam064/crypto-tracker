@@ -18,3 +18,4 @@ git clone https://github.com/shivam064/crypto-tracker.git
 cd crypto-tracker
 npm install
 npm start
+![image](https://github.com/user-attachments/assets/9b48b4a0-f652-414e-9915-b2ba59d66e9e)
